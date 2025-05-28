@@ -52,6 +52,8 @@ This project extracts structured news data from multiple countries using **RSS f
 - `BeautifulSoup`
 - `langdetect`
 - `sqlite3`
+- `flask`
+- `streamlit`
 
 ## API Endpoints
 
